@@ -143,7 +143,7 @@ Contributions to this project are welcome! If you find any issues or have ideas 
 <!-- License -->
 ## License
 
-Distributed under the MIT License. See <a href="[https://github.com/BrodaOJ56/HNG_INTERNSHIP_CRUD_API/blob/main/LICENSE">LICENSE</a> for more information.
+Distributed under the MIT License. See <a href="https://github.com/BrodaOJ56/HNG_INTERNSHIP_CRUD_API/blob/master/LICENSE">LICENSE</a> for more information.
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
