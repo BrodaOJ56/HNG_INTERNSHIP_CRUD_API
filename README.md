@@ -133,19 +133,13 @@ https://hngperson.onrender.com/api/
 
 
 ## Contributions
-Contributions to this project are welcome! If you find any issues or have ideas for improvements, please feel free to create an issue or submit a pull request.
+
+Contributions to the project are welcome, and users are encouraged to report any issues or provide suggestions for improvement. The project is open-source and licensed under the MIT License, allowing for further development and customization.
 ---
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
 ---
-
-<!-- License -->
-## License
-
-Distributed under the MIT License. See <a href="https://github.com/BrodaOJ56/HNG_INTERNSHIP_CRUD_API/blob/master/LICENSE">LICENSE</a> for more information.
-
-<p align="right"><a href="#readme-top">back to top</a></p>
 
 ---
 
