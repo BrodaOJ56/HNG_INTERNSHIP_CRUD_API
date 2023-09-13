@@ -43,6 +43,7 @@
     <li><a href="#Technology-Stack">Technology Stack/a></li>
     <li><a href="#How-to-run-the-project-on-Local">How to run the project on Local</a></li>
     <li><a href="#API-Endpoints">API Endpoints</a></li>
+    li><a href="#Modelling-Diagram">Modelling Diagram</a></li>
     <li><a href="#Contributions">Contributions</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#Connect-With-Me">Connect With Me</a></li>
@@ -130,6 +131,33 @@ https://hngperson.onrender.com/api/
 - DELETE /api/{id}: Delete a person by their ID.
 
 ---
+
+## Modelling Diagram
+
+Person is primary model with two attributes: id (primary key) and name (str).
+
+
++--------------------------+
+|       Person             |
++--------------------------+
+| - id: int (PK)           |
+| - name: str              |
++--------------------------+
+|                          |
++--------------------------+
+
+
+The Person class performs CRUD methods: create(POST), read(GET), update(PUT) and delete(DELETE). 
+These methods represent the basic CRUD operations one can perform on a Person resource.
+
++-------------------------+
+|                         |
+| + create(POST)          |
+| + read(GET)             |
+| + update(PUT)           |
+| + delete(DELETE)        |
+|                         |
++-------------------------+
 
 
 ## Contributions
