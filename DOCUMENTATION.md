@@ -47,27 +47,27 @@ Gunicorn (for deployment)
 
 ### Installation
 1. Clone the GitHub repository:
-
+```
 git clone https://github.com/your-username/person-api-project.git
-
+```
 2. Navigate to the project directory:
-
+```
 cd person-api-project
-
+```
 3. pip install -r requirements.txt
-
+```
 pip install -r requirements.txt
-
+```
 4. Create and configure your database in settings.py.
 
 5. Apply migrations:
-
+```
 python manage.py migrate
-
+```
 6. Start the development server:
-
+```
 python manage.py runserver
-
+```
 
 The API should now be accessible at http://localhost:8000/api
 
