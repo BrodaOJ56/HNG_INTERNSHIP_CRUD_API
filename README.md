@@ -21,7 +21,7 @@
 
 <div>
   <p align="center">
-    <a href="https://github.com/BrodaOJ56/HNG_INTERNSHIP_CRUD_API#readme"><strong>Explore the Docs »</strong></a>
+    <a href="https://github.com/BrodaOJ56/HNG_INTERNSHIP_CRUD_API/blob/master/DOCUMENTATION.md#readme"><strong>Explore the Docs »</strong></a>
     <br />
     ·
     <a href="https://github.com/BrodaOJ56/HNG_INTERNSHIP_CRUD_API/issues">Report Bug</a>
