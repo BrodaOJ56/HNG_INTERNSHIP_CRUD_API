@@ -137,6 +137,12 @@ https://hngperson.onrender.com/api/
 Person is primary model with two attributes: id (primary key) and name (str).
 
 
+
+
+
+
+
+
 +--------------------------+
 |       Person             |
 +--------------------------+
@@ -147,8 +153,21 @@ Person is primary model with two attributes: id (primary key) and name (str).
 +--------------------------+
 
 
+
+
+
+
+
+
+
 The Person class performs CRUD methods: create(POST), read(GET), update(PUT) and delete(DELETE). 
 These methods represent the basic CRUD operations one can perform on a Person resource.
+
+
+
+
+
+
 
 +-------------------------+
 |                         |
@@ -158,6 +177,10 @@ These methods represent the basic CRUD operations one can perform on a Person re
 | + delete(DELETE)        |
 |                         |
 +-------------------------+
+
+
+
+
 
 
 ## Contributions
