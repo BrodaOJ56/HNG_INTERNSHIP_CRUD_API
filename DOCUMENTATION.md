@@ -121,7 +121,7 @@ Example Response Body:
 }
 ```
 
-GET /api/?name={name}
+GET /api/{name}
 Retrieve details of a person by their name.
 
 Parameters:
@@ -231,7 +231,7 @@ Here are some sample use cases for the Person REST API:
 
 - Creating a new person:
 
-POST /api/persons/
+POST /api
 ```
 {
   "name": "Eve Johnson"
@@ -239,7 +239,7 @@ POST /api/persons/
 ```
 
 - Updating an existing person:
-PUT /api/persons/1/
+PUT /api/1
 ```
 {
   "name": "Updated Name"
@@ -247,17 +247,17 @@ PUT /api/persons/1/
 ```
 - Retrieving a person by ID:
 ```
-GET /api/persons/1/
+GET /api/1
 ```
 
 - Retrieving a person by name:
 ```
-GET /api/persons/?name=John Doe
+GET /api/JohnDoe
 ```
 
 - Deleting a person:
 ```
-DELETE /api/persons/1/
+DELETE /api/1
 ```
 
 
